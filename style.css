@@ -52,7 +52,8 @@ body {
   font-weight: 800;
 }
 
-.card-details-status {
+.card-details-status,
+.card-details-date-published {
   font-size: 14px;
 }
 
