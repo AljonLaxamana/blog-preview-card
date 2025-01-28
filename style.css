@@ -28,7 +28,7 @@ body {
   border: 2px solid var(--gray-950);
   padding: 24px;
   border-radius: 20px;
-  box-shadow: 4px 4px;
+  box-shadow: 8px 8px;
 }
 
 .card-img-container > img {
@@ -63,6 +63,7 @@ body {
 
 .card-details-description {
   color: var(--gray-500);
+  line-height: 1.5;
 }
 
 .card-details-icon-and-name-container {
