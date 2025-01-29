@@ -62,6 +62,12 @@ body {
   font-weight: 800;
 }
 
+.card-details-title:hover {
+  color: var(--yellow);
+  cursor: pointer;
+  transition: all ease-in-out 150ms;
+}
+
 .card-details-description {
   color: var(--gray-500);
   line-height: 1.5;
